@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pratibha/Documents/devops%20set%20A/mlruns/717895304447978539/5acda4f4db494b0fa7225714a998fce8/artifacts
+end_time: 1770638822025
+entry_point_name: ''
+experiment_id: '717895304447978539'
+lifecycle_stage: active
+run_id: 5acda4f4db494b0fa7225714a998fce8
+run_name: melodic-squid-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770638800678
+status: 3
+tags: []
+user_id: pratibha

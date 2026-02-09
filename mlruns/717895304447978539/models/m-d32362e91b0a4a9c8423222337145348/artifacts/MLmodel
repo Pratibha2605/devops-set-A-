@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/pratibha/Documents/devops%20set%20A/mlruns/717895304447978539/models/m-d32362e91b0a4a9c8423222337145348/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-d32362e91b0a4a9c8423222337145348
+model_size_bytes: 839
+model_uuid: m-d32362e91b0a4a9c8423222337145348
+prompts: null
+run_id: e90d0e6014b846eea810708c53023cb4
+utc_time_created: '2026-02-09 14:32:00.899303'

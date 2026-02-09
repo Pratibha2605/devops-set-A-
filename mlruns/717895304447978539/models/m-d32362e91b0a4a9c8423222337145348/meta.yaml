@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/pratibha/Documents/devops%20set%20A/mlruns/717895304447978539/models/m-d32362e91b0a4a9c8423222337145348/artifacts
+creation_timestamp: 1770647520848
+experiment_id: '717895304447978539'
+last_updated_timestamp: 1770647528918
+model_id: m-d32362e91b0a4a9c8423222337145348
+model_type: null
+name: trained_model
+source_run_id: e90d0e6014b846eea810708c53023cb4
+status: 2
+status_message: null
